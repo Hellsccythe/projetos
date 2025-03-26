@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  int idade = 8;
+  int idade = 10;
 
 
   if (idade >= 18) {
